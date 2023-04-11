@@ -1,0 +1,24 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# HUMANS
+
+    Jeff Adams
+    Overall site design and code
+    https://linkedin.com/in/geekatty
+    I accept all blame for bad design decisions and broken code.
+
+    Felipe Vieira
+    Header image: Pfluger Pedestrian Bridge, West Avenue, Austin, TX, USA
+    https://unsplash.com/photos/p8Ayj5vY-WA
+    Used with permission pursuant to the Unsplash License.
+
+# TECHNOLOGY
+
+    This site is written in HTML, CSS, and Javascript with standards and accessiblity as core design goals.
+
+    It's based on HTML5 Boilerplate v.8.0.0 (https://html5boilerplate.com/).
+
+    It's published using Cloudflare Pages.
+
+    Dev tools: MacOS, Sublime Text, Affinity Photo, git
